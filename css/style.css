@@ -194,11 +194,6 @@ button {
     margin-top: 58px;
   }
   
-  .partners__info {
-    flex-direction: column;
-    justify-content: center;
-  }
-
   .partners__info > button {
     width: 335px;
     height: 140px;
